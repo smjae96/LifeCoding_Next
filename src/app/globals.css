@@ -1,0 +1,4 @@
+/* globals.css => 전역적으로 디자인 할 수 있는 파일임.  */
+h1 a{
+  text-decoration: none;
+}
